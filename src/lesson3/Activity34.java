@@ -13,6 +13,5 @@ public class Activity34 {
         System.out.println("The sum of 1 to " + n + " is " + sum);
         System.out.println("The average is " +  (sum/n));
     }
-
 }
 
