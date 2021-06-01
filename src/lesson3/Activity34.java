@@ -8,9 +8,11 @@ public class Activity34 {
         double sum = 0;
         for (int i = 0; i <= n; i++) {
             sum += i;
+
         }
         System.out.println("The sum of 1 to " + n + " is " + sum);
         System.out.println("The average is " +  (sum/n));
     }
 
 }
+
